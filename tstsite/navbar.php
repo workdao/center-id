@@ -10,7 +10,7 @@
 		<?php else:?>
 			<span class="navbar-brand"><?php bloginfo( 'name' ); ?></span>
 		<?php endif;?>	
-		<div class="beta-label"><?php _e('beta-version', 'tst');?> 1.5</div>
+		<div class="beta-label"><?php _e('beta-version', 'tst');?></div>
 	</div>
 	
 	<div class="collapse navbar-collapse" id="top-nav">
